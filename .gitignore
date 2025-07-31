@@ -9,3 +9,5 @@ R.java
 /jni/*.d
 /jni/*.o
 /lib/*/libapp_jni.so
+/assets/NomNaTong-Regular.otf
+/assets/dict.csv
