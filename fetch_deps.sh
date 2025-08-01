@@ -16,3 +16,5 @@ cd assets
 wget -nv --show-progress -N "$font_url"
 
 wget -nv --show-progress "$dict_url" -O dict.csv
+
+sha1sum dict.csv > timestamp.txt
